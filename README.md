@@ -1586,6 +1586,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pickleball3](https://pickleball3.com) `https://pickleball3.com/mcp`
   [![Pickleball3 MCP connector](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3)
   🔓 - Compare 152 reviewed pickleball paddles by score and specs, with purchase links.
+- [RallyIQ](https://bigballi.com/RallyIQ/connect) `https://bigballi.com/RallyIQ/mcp`
+  [![RallyIQ MCP connector](https://glama.ai/mcp/connectors/com.bigballi/rallyiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/rallyiq)
+  🔓 - Tennis game plans, player scouting and match breakdowns from shot-by-shot charted ATP and WTA matches.
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
